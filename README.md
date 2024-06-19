@@ -2,7 +2,7 @@
 ![image](https://github.com/bebrik2323/Hamster-clicker-v5/assets/173284383/54c99e44-7094-429d-a86c-f3b708e6ffcf)
 
 <h1>Automate Your Hamster Coin Earnings with This Powerful Auto-Clicker</h1>
-<h2>Download clicker here:</h2>
+<h2>You can download the autoclicker in the release</h2>
 
 Are you tired of manually clicking on the Hamster Coin clicker game over and over again? Do you wish there was a way to earn Hamster Coins passively, without having to constantly babysit the game? Well, your prayers have been answered with the Hamster Coin auto-clicker!
 
